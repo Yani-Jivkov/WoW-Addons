@@ -1,1 +1,25 @@
 # WoW-Addons
+
+This is a repository containing several useful addons for the game World of Warcraft (WoW). The addons include various tools and enhancements that can assist players in their gaming experience.
+
+## Description of Addons:
+
+- **DBM (Deadly Boss Mods):** An addon that helps players deal with boss encounters by providing various warnings and alerts for important mechanics.
+  
+- **AtlasLoot:** Allows players to browse loot from various instances and raids in the game, which can aid in planning various adventures.
+  
+- **AutoFlood:** Adds automatic chat messaging, which can be helpful for communication with teammates or in certain situations in the game.
+  
+- **GearScore:** Displays a rating of the hero's equipment, which can help players make decisions regarding gear changes or optimizing their hero.
+  
+- **KPack:** Provides a set of various addons and settings that can enhance the interface and functionality of the game.
+  
+- **Skada:** An addon for measuring hero activity, such as damage, healing, threat overview, and others, which can help in analyzing hero performance.
+
+## Installation:
+
+For installing each of the addons, download the addon's archive from this repository, extract it, and move or copy the contents into the addons folder of your World of Warcraft client.
+
+## License:
+
+This project is licensed under the [MIT License](LICENSE).
