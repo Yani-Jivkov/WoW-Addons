@@ -19,7 +19,3 @@ This is a repository containing several useful addons for the game World of Warc
 ## Installation:
 
 For installing each of the addons, download the addon's archive from this repository, extract it, and move or copy the contents into the addons folder of your World of Warcraft client.
-
-## License:
-
-This project is licensed under the [MIT License](LICENSE).
