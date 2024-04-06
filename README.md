@@ -18,7 +18,7 @@ This is a repository containing several useful addons for the game World of Warc
 
 ## Installation:
 
-For installing each of the addons, download the addon's archive from this repository, extract it, and move one by one the files from the folders in C:\Users\*****\Downloads\World of Warcraft 3.3.5a\Interface\AddOns.
+For installing each of the addons, download the addon's archive from this repository, extract it, and move one by one the files from the folders in C:\Users\random\Downloads\World of Warcraft 3.3.5a\Interface\AddOns.
 
 Example: All the files from C:\Users\random\Downloads\Git-Hub WoW Addons\AtlasLoot goes to C:\Users\random\Downloads\World of Warcraft 3.3.5a\Interface\AddOns
 
