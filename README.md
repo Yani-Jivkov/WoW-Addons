@@ -16,6 +16,8 @@ This is a repository containing several useful addons for the game World of Warc
   
 - **Skada:** An addon for measuring hero activity, such as damage, healing, threat overview, and others, which can help in analyzing hero performance.
 
+- **Auctionator:** This addon makes buying and selling easier on the auction house for players that want to make or spend gold.
+
 ## Installation:
 
 For installing each of the addons, download the addon's archive from this repository, extract it, and move one by one the files from the folders in C:\Users\random\Downloads\World of Warcraft 3.3.5a\Interface\AddOns.
