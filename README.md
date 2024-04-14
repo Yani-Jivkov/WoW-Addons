@@ -24,5 +24,5 @@ For installing each of the addons, download the addon's archive from this reposi
 
 Example: All the files from C:\Users\random\Downloads\Git-Hub WoW Addons\AtlasLoot goes to C:\Users\random\Downloads\World of Warcraft 3.3.5a\Interface\AddOns
 
-![screensho![2024-04-02_16h44_34](https://github.com/Yani-Jivkov/WoW-Addons/assets/114335628/f7cb94ba-81b3-47b5-8e69-c3e4fb255393)
+[2024-04-02_16h44_34](https://github.com/Yani-Jivkov/WoW-Addons/assets/114335628/f7cb94ba-81b3-47b5-8e69-c3e4fb255393)
 
